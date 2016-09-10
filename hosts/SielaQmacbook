@@ -1,3 +1,5 @@
+Port = 655
+Subnet = 192.168.100.9/32
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAvkrqslyFf6Aj+f6gETNZdu9bWjEoJX9KuOJjq6ePzjkm3PgOej2U
